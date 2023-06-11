@@ -1,2 +1,2 @@
 # CourseRecommendations
-This is Student Course Recommedations
+This is Student Course Recommedations System
